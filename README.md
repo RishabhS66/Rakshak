@@ -12,3 +12,9 @@ Some salient features of the application are listed below :
 7.	A **community forum** will be present where people can put up their needs (if stuck in the disaster) or discuss events related to the disaster by using *hashtags* to mark the topic. 
 8.	Profiles of users will be maintained, and their *achievements* will be displayed, rated according to how *vigilant and proactive towards the cause they are.*
 9. **Locations of relief camps** set up around the user will be provided. If a user knows any relief camps being set up, he/she can mark its location so that other users can access the camp.  
+
+Co-authored-by: Rishabh Srivastava (<sriva170106048@iitg.ac.in>)
+
+Co-authored-by: Shubham Kumar (<shamsinha1909@gmail.com>)
+
+Co-authored-by: Yogesh Yadav (<yy170102073@iitg.ac.in>)
